@@ -1,0 +1,24 @@
+.profile {
+  background-color: aquamarine;
+}
+.description {
+  /* background-color: #fff; */
+}
+.username {
+  color: red;
+}
+.tag {
+  color: red;
+}
+.location {
+  color: red;
+}
+
+.avatar {
+  color: red;
+  border-radius: 50%;
+}
+
+.stats {
+  color: red;
+}

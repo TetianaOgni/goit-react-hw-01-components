@@ -1,0 +1,15 @@
+.item {
+  display: flex;
+  flex-direction: column;
+}
+.label {
+  font-size: 18px;
+  display: block;
+  color: rgb(143, 141, 141);
+}
+.percentage {
+  font-size: 18px;
+  font-weight: 600;
+  display: block;
+  color: rgb(36, 34, 34);
+}

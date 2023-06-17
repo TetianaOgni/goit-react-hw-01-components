@@ -1,0 +1,9 @@
+.tableData {
+  font-size: 18px;
+  text-align: center;
+  height: 40px;
+  color: rgb(143, 141, 141);
+}
+.tableData:nth-child(even) {
+  background-color: rgb(227, 239, 241);
+}
